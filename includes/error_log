@@ -1,0 +1,205 @@
+[22-Aug-2017 07:50:40 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 07:50:40 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 07:50:40 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 07:50:40 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 07:50:40 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 07:50:40 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 07:50:40 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 07:50:40 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 07:50:40 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 07:52:15 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 07:52:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 07:52:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 07:52:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 07:52:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 07:52:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 07:52:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 07:52:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 07:52:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 07:54:23 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 07:54:23 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 07:54:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 07:54:23 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 07:54:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 07:54:23 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 07:54:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 07:54:23 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 07:54:23 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:07:09 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 08:07:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:07:09 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:07:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:07:09 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:07:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:07:09 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:07:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:07:09 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:09:32 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 08:09:32 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:09:32 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:09:32 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:09:32 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:09:32 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:09:32 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:09:32 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:09:32 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:10:09 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 08:10:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:10:09 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:10:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:10:09 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:10:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:10:09 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:10:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:10:09 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:10:21 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 08:10:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:10:21 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:10:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:10:21 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:10:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:10:21 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:10:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:10:21 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:10:41 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 08:10:41 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:10:41 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:10:41 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:10:41 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:10:41 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:10:41 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:10:41 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:10:41 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 23
+[22-Aug-2017 08:40:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 23
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 23
+[22-Aug-2017 08:43:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 23
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 23
+[22-Aug-2017 08:44:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 23
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:17:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 23
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:20:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 23
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'scuplteddesigns.in' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:23:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 23
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'scuplteddesigns.in' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:26:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 12
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'scuplteddesigns.in' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:29:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 12
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:36:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 12
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'dbadmin'@'localhost' (using password: YES) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:40:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 12
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'dbadmin'@'localhost' (using password: YES) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:42:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 12
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'dbadmin'@'localhost' (using password: YES) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:42:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 12
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'dbadmin'@'localhost' (using password: YES) in /home/sculpurp/public_html/includes/dbconnect2.php on line 11
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 6
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 7
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 8
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/sculpurp/public_html/includes/register.php on line 9
+[22-Aug-2017 09:43:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sculpurp/public_html/includes/register.php on line 12
